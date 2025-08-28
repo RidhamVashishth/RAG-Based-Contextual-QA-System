@@ -1,3 +1,18 @@
+# Environment Variables
+# Never commit secret keys or credentials.
+# ----------------------------------------------------------------
+.env
+
+# ----------------------------------------------------------------
+# Virtual Environments
+# Ignore virtual environment folders to keep the repository lightweight.
+# ----------------------------------------------------------------
+.venv
+venv/
+env/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
