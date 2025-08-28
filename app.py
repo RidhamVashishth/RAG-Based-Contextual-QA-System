@@ -19,7 +19,7 @@ def embedding_model():
     return HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # ------------------------🎯 STREAMLIT FRONT-END ------------------------
-st.title("📄 RAG-Based PDF Q&A System")
+st.title("📄 AskTheDoc- RAG Based PDF Q&A System")
 st.markdown("### 🤖 Powered by HuggingFace Embeddings + FAISS + Gemini")
 st.markdown("---")
 
