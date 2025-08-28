@@ -1,6 +1,6 @@
 # AskTheDoc - Multi-Format Document Q&A System
 
-A proficient, accurate, and interactive question-answering web application built with Streamlit. This tool leverages a Retrieval-Augmented Generation (RAG) pipeline to allow users to ask questions about the content of their uploaded documents (PDF, DOCX, PPTX, XLSX).
+A proficient, accurate, and interactive question-answering web application built with Streamlit. This tool leverages a Retrieval-Augmented Generation (RAG) pipeline to allow users to ask questions about the content of their uploaded documents (PDF, DOCX, PPTX, XLSX). The app can be accessed by visiting https://ragbasedanswers.streamlit.app/
 
 ---
 
