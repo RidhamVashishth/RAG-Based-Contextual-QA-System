@@ -1,9 +1,13 @@
-google.generativeai
 streamlit
+google-generativeai
 python-dotenv
 pypdf
-faiss-cpu
+python-docx
+python-pptx
+openpyxl
 langchain
+langchain-text-splitters
+langchain-community
 langchain-huggingface
-langchain_community
-sentence-transformers 
+faiss-cpu
+sentence-transformers
